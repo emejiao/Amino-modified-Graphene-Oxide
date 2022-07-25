@@ -4,7 +4,9 @@ This repository have a script to build the amino-modified models of GO, the nucl
 
 
 ##Citing
+
 This work has been published in:
+
 ***Wettability of graphene oxide functionalized with N-alkylamines: a molecular dynamics study***
 Phys. Chem. Chem. Phys. 2022, 24, 11412, 10.1039/d2cp00292b
 
